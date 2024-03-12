@@ -1,4 +1,4 @@
-# 让gpt_academic支持Ollama和gpt4all等的模块，目前只完成Ollama的模块
+让gpt_academic支持Ollama和gpt4all等的模块，目前只完成支持Ollama的模块
 
 - /request_all目录的模块根据都是bridge_chatgpt.py修改而得。
 - 在bridge_all.py中增加的代码也很重要。
